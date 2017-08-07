@@ -6,6 +6,7 @@ $simditor-button-width: 46px;
 .simditor {
   position: relative;
   border: 1px solid #c9d8db;
+  max-width: 600px;
 
   .simditor-wrapper {
     position: relative;
