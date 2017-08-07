@@ -236,6 +236,7 @@
   white-space: pre-wrap !important;
 }
 .simditor .simditor-body img {
+  max-width: 400px;
   cursor: pointer;
 }
 .simditor .simditor-body img.selected {

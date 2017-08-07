@@ -111,6 +111,7 @@ $simditor-button-width: 46px;
 
     img {
       cursor: pointer;
+      max-width: 400px;
 
       &.selected {
         box-shadow: 0 0 0 4px #cccccc;
