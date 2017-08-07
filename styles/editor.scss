@@ -459,8 +459,9 @@ $simditor-button-width: 46px;
     .settings-field {
       margin: 0 0 5px 0;
       font-size: 12px;
-      height: 25px;
-      line-height: 25px;
+      &.image-size-setting, &.image-alt-setting {
+        display: none;
+      }
 
       label {
         display: inline-block;
