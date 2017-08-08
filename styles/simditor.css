@@ -534,8 +534,9 @@
   font-size: 12px;
 }
 .simditor .simditor-popover .settings-field.image-size-setting,
-.simditor .simditor-popover .settings-field.image-alt-setting {
-  display: none
+.simditor .simditor-popover .settings-field.image-alt-setting,
+.simditor .simditor-popover .settings-field.link-target-setting {
+  display: none;
 }
 .simditor .simditor-popover .settings-field label {
   display: inline-block;
